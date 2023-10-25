@@ -15,7 +15,7 @@ default_cover_index: /assets/default.png
 default_cover_detail: /assets/bg/1 (90).jpg
 
 # Favicon
-favicon: ""
+favicon: /assets/思.ico
 
 # Comments. Choose one by filling up the information
 comments:
